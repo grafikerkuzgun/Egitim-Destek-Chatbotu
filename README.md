@@ -42,7 +42,7 @@ Neden Eğitim Destek Chatbotu Kullanmalısınız?
 
 
 
-Ayrıca verdiğmiz bu link ile yapay zekamızın kodlarına erişebilirsiniz:
+Ayrıca verdiğmiz bu link ile yapay zekamızın codeweek sayfasına erişebilirsiniz: https://codeweek.eu/view/541727/egitim-destek-chatbotu
 
 
 
