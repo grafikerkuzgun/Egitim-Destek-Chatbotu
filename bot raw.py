@@ -11,7 +11,7 @@ while True:
 
     # OpenAI API'sini kullanarak soruya cevap al
     response = openai.Completion.create(
-        engine="text-davinci-003",
+        engine="gpt-3.5-turbo-0613",
         prompt=soru + "\n",
         max_tokens=150  # Chatbot yanıtının maksimum uzunluğu
     )
