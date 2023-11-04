@@ -13,7 +13,7 @@ while True:
     response = openai.Completion.create(
         engine="gpt-3.5-turbo-0613",
         prompt=soru + "\n",
-        max_tokens=150  # Chatbot yanıtının maksimum uzunluğu
+        max_tokens=3600  # Chatbot yanıtının maksimum uzunluğu
     )
     cevap = response.choices[0].text.strip()
 
